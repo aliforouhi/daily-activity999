@@ -1,2 +1,4 @@
-# daily-activity999
-Repository for my daily GitHub activity
+# daily_update.py
+words = ["GitHub", "daily", "activity", "Day", "4"]
+print(" ".join(words))
+print("Number of words:", len(words))
